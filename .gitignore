@@ -1,0 +1,14 @@
+
+*.swp
+
+natbib.bst
+
+ut_thesis.log
+
+ut_thesis.blg
+
+ut_thesis.bbl
+
+ut_thesis.toc
+
+ut_thesis.pdf
