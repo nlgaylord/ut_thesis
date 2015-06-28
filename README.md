@@ -2,6 +2,9 @@
 LaTeX template for theses and dissertations at the University of Texas at Austin. 
 Most current version available anywhere so far as I know.
 
+I recommend downloading this whole repository as a .zip file, since this
+whole repo is equivalent to a top-level project directory.
+
 This repository is designed to be useful to both beginning and experienced 
 LaTeX users. 
 
