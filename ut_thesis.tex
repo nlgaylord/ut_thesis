@@ -77,9 +77,18 @@
 				     
 %% Your previous degrees, abbreviated; separate multiple degrees by commas.     
 \renewcommand{\thesisauthorpreviousdegrees}{(list your previous degrees here)}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Thesis Committee Member Section:
+%%% 
+%%% For both Master's and PhD, you must declare \thesissupervisor
+%%% For Master's, enter your second reader as \thesiscommitteemembera,
+%%% found at the top of the block right past where you can define your PhD
+%%% co-supervisor. \thesissupervisor and \thesiscommittemembera are the only
+%%% fields used in creating Master's theses and reports.
                                      
 %% Your thesis supervisor; use mixed-case and don't use any titles or degrees.
- \renewcommand{\thesissupervisor}{Ada Lovelace}
+\renewcommand{\thesissupervisor}{Ada Lovelace}
 
 \newif\ifcosuper                                     
 %% Your PhD. thesis co-supervisor; if any. Use mixed case and don't use any 
